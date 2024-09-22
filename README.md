@@ -4,6 +4,7 @@ Working on connecting ideas, capitals and skills.
 
 Cheers 🥂 
 
+linkedin - Amarnath Sivashankaran
 
 <!---
 Amarnath-001/Amarnath-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
